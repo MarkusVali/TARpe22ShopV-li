@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\source\\repos\\TARpe22ShopVäli\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj": {}
+    "C:\\Users\\marku\\source\\repos\\ShopTARpe22\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\source\\repos\\TARpe22ShopVäli\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj": {
+    "C:\\Users\\marku\\source\\repos\\ShopTARpe22\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\TARpe22ShopVäli\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\ShopTARpe22\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj",
         "projectName": "TARpe22ShopVäli",
-        "projectPath": "C:\\Users\\marku\\source\\repos\\TARpe22ShopVäli\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj",
+        "projectPath": "C:\\Users\\marku\\source\\repos\\ShopTARpe22\\TARpe22ShopVäli\\TARpe22ShopVäli.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\source\\repos\\TARpe22ShopVäli\\TARpe22ShopVäli\\obj\\",
+        "outputPath": "C:\\Users\\marku\\source\\repos\\ShopTARpe22\\TARpe22ShopVäli\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
