@@ -6,4 +6,44 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\RealEstates\CreateUpdate.cshtml" />
+    <None Include="Views\RealEstates\Delete.cshtml" />
+    <None Include="Views\RealEstates\Details.cshtml" />
+    <None Include="Views\RealEstates\Index.cshtml" />
+    <None Include="Views\RealEstates\_Images.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\Spaceships\CreateUpdate.cshtml" />
+    <None Include="Views\Spaceships\Delete.cshtml" />
+    <None Include="Views\Spaceships\Details.cshtml" />
+    <None Include="Views\Spaceships\Index.cshtml" />
+    <None Include="Views\Spaceships\_Images.cshtml" />
+    <None Include="Views\WeatherForecasts\City.cshtml" />
+    <None Include="Views\WeatherForecasts\Index.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.23">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.23" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.23">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TARpe22Shop.ApplicationServices\TARpe22ShopVäli.ApplicationServices.csproj" />
+    <ProjectReference Include="..\TARpe22Shop.Core\TARpe22ShopVäli.Core.csproj" />
+    <ProjectReference Include="..\TARpe22Shop.Data\TARpe22ShopVäli.Data.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,7 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+using TARpe22ShopVäli.ApplicationServices.Services;
+using TARpe22ShopVäli.Core.ServiceInterface;
+using TARpe22ShopVäli.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<TARpe22ShopVäliContext>(OptionsBuilderConfigurationExtensions => OptionsBuilderConfigurationExtensions.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<ISpaceshipsServices, SpaceshipsServices>();
+builder.Services.AddScoped<IFilesServices, FilesServices>();
+builder.Services.AddScoped<IRealEstatesServices, RealEstatesServices>();
+builder.Services.AddScoped<IWeatherForecastsServices, WeatherForecastsServices>();
 
 var app = builder.Build();
 

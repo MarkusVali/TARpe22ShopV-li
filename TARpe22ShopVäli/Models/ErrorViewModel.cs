@@ -1,4 +1,4 @@
-namespace TARpe22ShopVÃ¤li.Models
+namespace TARpe22ShopVäli.Models
 {
     public class ErrorViewModel
     {

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe22ShopVäli", "TARpe22ShopVäli\TARpe22ShopVäli.csproj", "{9A90D92F-E368-4D9A-89BD-C065370EF78E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TARpe22ShopVäli", "TARpe22ShopVäli\TARpe22ShopVäli.csproj", "{9A90D92F-E368-4D9A-89BD-C065370EF78E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TARpe22ShopVäli.Core", "TARpe22Shop.Core\TARpe22ShopVäli.Core.csproj", "{2B802D21-C60D-4017-A9E9-E5B41FB4E3E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TARpe22ShopVäli.Data", "TARpe22Shop.Data\TARpe22ShopVäli.Data.csproj", "{52046102-85FC-4236-BBBB-6CBADBBF166C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TARpe22ShopVäli.ApplicationServices", "TARpe22Shop.ApplicationServices\TARpe22ShopVäli.ApplicationServices.csproj", "{A72B384C-2362-44EF-A046-294EE2FCEA17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9A90D92F-E368-4D9A-89BD-C065370EF78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A90D92F-E368-4D9A-89BD-C065370EF78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A90D92F-E368-4D9A-89BD-C065370EF78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B802D21-C60D-4017-A9E9-E5B41FB4E3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B802D21-C60D-4017-A9E9-E5B41FB4E3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B802D21-C60D-4017-A9E9-E5B41FB4E3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B802D21-C60D-4017-A9E9-E5B41FB4E3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52046102-85FC-4236-BBBB-6CBADBBF166C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52046102-85FC-4236-BBBB-6CBADBBF166C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52046102-85FC-4236-BBBB-6CBADBBF166C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52046102-85FC-4236-BBBB-6CBADBBF166C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72B384C-2362-44EF-A046-294EE2FCEA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72B384C-2362-44EF-A046-294EE2FCEA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72B384C-2362-44EF-A046-294EE2FCEA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72B384C-2362-44EF-A046-294EE2FCEA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
