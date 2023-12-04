@@ -20,7 +20,7 @@ namespace TARpe22ShopVäli.SpaceshipTest
     {
         protected IServiceProvider serviceProvider { get; set; }
 
-        protected TestBase()
+        protected TestBase() 
         {
             var services = new ServiceCollection();
             SetupServices(services);
@@ -45,10 +45,10 @@ namespace TARpe22ShopVäli.SpaceshipTest
             services.AddScoped<IHostingEnvironment, MockIHostEnvironment>();
 
             services.AddDbContext<TARpe22ShopVäliContext>(x =>
-            {
-                x.UseInMemoryDatabase("TEST");
-                x.ConfigureWarnings(e => e.Ignore(InMemoryEventId.TransactionIgnoredWarning));
-            }
+                {
+                    x.UseInMemoryDatabase("TEST");
+                    x.ConfigureWarnings(e => e.Ignore(InMemoryEventId.TransactionIgnoredWarning));
+                }
                 );
             RegisterMacros(services);
         }

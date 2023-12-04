@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using TARpe22ShopVäli.Core.Domain;
 using TARpe22ShopVäli.Core.Dto;
 using TARpe22ShopVäli.Core.ServiceInterface;
-using TARpe22ShopVäli.SpaceshipTest;
 using Xunit;
 
 namespace TARpe22ShopVäli.SpaceshipTest

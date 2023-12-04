@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TARpe22ShopVäli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43295480f63ca37b8e063c2864e61d8cba09c3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TARpe22ShopVäli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TARpe22ShopVäli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
