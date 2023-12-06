@@ -1,0 +1,17 @@
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Data.deps.json
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Data.runtimeconfig.json
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Data.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Data.pdb
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Core.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\bin\Debug\net6.0\ValiShop.Core.pdb
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.csproj.AssemblyReference.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.AssemblyInfoInputs.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.AssemblyInfo.cs
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.csproj.CopyComplete
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\refint\ValiShop.Data.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.pdb
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ValiShop.Data.genruntimeconfig.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Data\obj\Debug\net6.0\ref\ValiShop.Data.dll

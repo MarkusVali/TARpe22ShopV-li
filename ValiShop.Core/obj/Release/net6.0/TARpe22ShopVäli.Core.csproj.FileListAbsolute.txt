@@ -1,0 +1,13 @@
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\bin\Release\net6.0\ValiShop.Core.deps.json
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\bin\Release\net6.0\ValiShop.Core.dll
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\bin\Release\net6.0\ValiShop.Core.pdb
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.AssemblyInfo.cs
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.sourcelink.json
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.dll
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\refint\ValiShop.Core.dll
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ValiShop.Core.pdb
+C:\Users\marku\source\repos\TARpe22ShopV-li\ValiShop.Core\obj\Release\net6.0\ref\ValiShop.Core.dll

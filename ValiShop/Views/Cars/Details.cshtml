@@ -1,0 +1,98 @@
+﻿@model ValiShop.Models.Car.CarDetailsViewModel
+@{
+    string Aircon = "";
+    string IsCarSold = "";
+}
+<h1>Details</h1>
+
+<div>
+    <h4>Cars</h4>
+    <dl class="row">
+
+        <div class="form-group row">
+            <label asp-for="Id" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.Id)
+        </div>
+        <div class="form-group row">
+            <label asp-for="Brand" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.Brand)
+        </div>
+        <div class="form-group row">
+            <label asp-for="Mark" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.Mark)
+        </div>
+        <div class="form-group row">
+            <label asp-for="CarShape" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.CarShape)
+        </div>
+        <div class="form-group row">
+            <label asp-for="CarType" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.CarType)
+        </div>
+        <div class="form-group row">
+            <label asp-for="LicensePlate" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.LicensePlate)
+        </div>
+        <div class="form-group row">
+            <label asp-for="LicensePlateTemplate" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.LicensePlateTemplate)
+        </div>
+        <div class="form-group row">
+            <label asp-for="ManufactureDate" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.ManufactureDate)
+        </div>
+        <div class="form-group row">
+            <label asp-for="SeatAmount" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.SeatAmount)
+        </div>
+        <div class="form-group row">
+            <label asp-for="OriginCountry" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.OriginCountry)
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="HasAirConditioning" class="col-sm-2 col-form-label"></label>
+            @if (Model.HasAirConditioning)
+            {
+                Aircon = "This car is gonna be cool as fuck";
+            }
+            else
+            {
+                Aircon = "Lmao die in the heat, loser";
+            }
+            @(Aircon)
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="IsCarSold" class="col-sm-2 col-form-label"></label>
+            @if (Model.IsCarSold)
+            {
+                IsCarSold = "This car is GONE";
+            }
+            else
+            {
+                IsCarSold = "Too bad you're too much a brokie to buy this";
+            }
+            @(IsCarSold)
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="CreatedAt" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.CreatedAt)
+        </div>
+        <div class="form-group row">
+            <label asp-for="ModifiedAt" class="col-sm-2 col-form-label"></label>
+            @Html.DisplayFor(model => model.ModifiedAt)
+        </div>
+
+        @foreach (var images in Model.Image)
+        {
+            <partial name="_images" model="images" />
+        }
+        @foreach (var images in Model.Image)
+        {
+            <partial name="_Images" model="images"/>
+        }
+    </dl>
+    <a asp-action="index" asp-controller="cars" class="btn btn-danger">Index</a>
+</div>

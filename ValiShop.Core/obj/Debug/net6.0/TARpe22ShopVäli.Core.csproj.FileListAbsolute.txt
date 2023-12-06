@@ -1,0 +1,12 @@
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\bin\Debug\net6.0\ValiShop.Core.deps.json
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\bin\Debug\net6.0\ValiShop.Core.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\bin\Debug\net6.0\ValiShop.Core.pdb
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.csproj.AssemblyReference.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.AssemblyInfoInputs.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.AssemblyInfo.cs
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\refint\ValiShop.Core.dll
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ValiShop.Core.pdb
+C:\Users\marku\Downloads\ValiShop-Cars\ValiShop-Cars\TARpe22Shop.Core\obj\Debug\net6.0\ref\ValiShop.Core.dll
